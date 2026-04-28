@@ -1,0 +1,8 @@
+fastapi[standard]
+pydantic
+scikit-learn
+pandas
+numpy
+tensorflow
+joblib
+matplotlib
